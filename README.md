@@ -23,12 +23,13 @@ scores and announces the winner.
     project/
     │── quiz.py          # Main game script
     │── README.md        # Project documentation
+    │── statement.md     # statement file
 
 ------------------------------------------------------------------------
 
 ## ▶️ How to Run
 
-1.  Make sure Python 3 is installed.
+1.  Make sure Python is installed.
 2.  Save the `quiz.py` file in a folder.
 3.  Open a terminal in that folder.
 4.  Run the game:
